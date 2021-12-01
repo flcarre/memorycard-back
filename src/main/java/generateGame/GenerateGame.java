@@ -1,4 +1,4 @@
-package org.acme.generateGame;
+package generateGame;
 
 import io.vertx.core.json.JsonObject;
 
